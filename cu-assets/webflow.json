@@ -1,0 +1,9 @@
+{
+  "cosmic": {
+    "framework": "astro",
+    "build": {
+      "command": "npm ci && npm run build",
+      "output": "dist"
+    }
+  }
+}
